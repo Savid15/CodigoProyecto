@@ -28,7 +28,7 @@ public class formaPagoClass {
         this.nombre_forma_pago = nombre_forma_pago;
     }
     
-System.out.println("mamahuevo");
+System.out.println("mamahuevo x2");
     
     
 }
