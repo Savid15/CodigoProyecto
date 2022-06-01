@@ -12,6 +12,6 @@ package com.mycompany.proyecto_cliente;
 public class Proyecto_Cliente {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Santiago");
     }
 }
